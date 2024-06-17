@@ -7,3 +7,6 @@
 [submodule "services/ReminderService"]
 	path = services/ReminderService
 	url = https://github.com/diptesh17/ReminderService.git
+[submodule "services/BookingService"]
+	path = services/BookingService
+	url = https://github.com/diptesh17/BookingService.git
