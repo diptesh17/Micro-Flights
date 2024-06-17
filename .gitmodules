@@ -1,0 +1,3 @@
+[submodule "services/Flights-Management"]
+	path = services/Flights-Management
+	url = https://github.com/diptesh17/Flights-Management.git
