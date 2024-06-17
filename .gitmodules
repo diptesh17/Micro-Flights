@@ -1,3 +1,6 @@
 [submodule "services/Flights-Management"]
 	path = services/Flights-Management
 	url = https://github.com/diptesh17/Flights-Management.git
+[submodule "services/Auth_Service"]
+	path = services/Auth_Service
+	url = https://github.com/diptesh17/Auth_Service.git
