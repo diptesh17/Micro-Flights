@@ -4,3 +4,6 @@
 [submodule "services/Auth_Service"]
 	path = services/Auth_Service
 	url = https://github.com/diptesh17/Auth_Service.git
+[submodule "services/ReminderService"]
+	path = services/ReminderService
+	url = https://github.com/diptesh17/ReminderService.git
